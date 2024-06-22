@@ -24,8 +24,11 @@
 Dengue outbreaks in Kolkata analyzed based on temperature and humidity during different months of the year. The plotting in this case has been done as comparable line chart with different colors.
 
 ## Video
+<!--
+[![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd) 
+-->
 
-[![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd)
+We are working on this section. Please check at some other time.
 
 ## Technologies-used
 
